@@ -149,6 +149,10 @@
 </dependency>
 
   </dependencies>
+  
+  <build>
+    <finalName>ROOT</finalName>
+</build>
 
   <build>
     <plugins>
