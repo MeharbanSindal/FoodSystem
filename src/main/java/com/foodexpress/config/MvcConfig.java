@@ -13,7 +13,7 @@ import org.springframework.web.multipart.support.StandardServletMultipartResolve
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = "com.foodexpress.controller")
+@ComponentScan(basePackages = "com.foodexpress")
 public class MvcConfig implements WebMvcConfigurer {
 
     @Bean
